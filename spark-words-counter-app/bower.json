@@ -1,0 +1,14 @@
+{
+    "name": "spark-words-counter",
+    "version": "0.0.0",
+    "appPath": "src/main/webapp",
+    "testPath": "src/test/javascript/spec",
+    "dependencies": {
+        "angular": "1.4.8",
+        "angular-loading-bar": "0.8.0",
+        "angular-resource": "1.4.8",
+        "angular-ui-router": "0.2.15",
+        "bootstrap": "3.3.5",
+        "jquery": "2.1.4"
+    }
+}
